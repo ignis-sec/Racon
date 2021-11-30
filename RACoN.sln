@@ -93,11 +93,15 @@ Global
 		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|Win32.ActiveCfg = Release|Win32
 		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|Win32.Build.0 = Release|Win32
-		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|x64.ActiveCfg = Release|Win32
+		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|x64.ActiveCfg = Release|x64
+		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|x64.Build.0 = Release|x64
 		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|x86.ActiveCfg = Release|Win32
 		{BF7E0C2F-FB62-491B-AB11-77B9041F29E4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364A2DBD-B868-468A-A2F5-226393EECF4F}
 	EndGlobalSection
 EndGlobal
