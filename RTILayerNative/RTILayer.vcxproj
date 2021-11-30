@@ -145,7 +145,7 @@
       <AdditionalIncludeDirectories>$(ProjectDir)\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <AdditionalDependencies>libRTI-NGd.lib;libFedTimed.lib;librti1516ed.lib;libfedtime1516ed.lib</AdditionalDependencies>
+      <AdditionalDependencies>RTI-NGd.lib;FedTimed.lib;rti1516ed.lib;fedtime1516ed.lib</AdditionalDependencies>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AssemblyDebug>true</AssemblyDebug>
     </Link>
